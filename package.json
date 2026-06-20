@@ -1,0 +1,29 @@
+{
+  "name": "construction-adler-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.16"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "^0.9.0",
+    "babylonjs": "^9.13.0",
+    "cannon-es": "^0.20.0",
+    "framer-motion": "^12.40.0",
+    "magicui": "github:magicuidesign/magicui",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "skiper-ui": "github:Tusharxhub/skiper-UI"
+  }
+}

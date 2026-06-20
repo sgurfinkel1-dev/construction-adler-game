@@ -1,0 +1,3 @@
+allowBuilds:
+  babylonjs: set this to true or false
+  magicui@https://codeload.github.com/magicuidesign/magicui/tar.gz/05bbb921d4d6103acb2efaabd4be1cccb6564e55: set this to true or false
